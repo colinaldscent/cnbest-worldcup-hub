@@ -1,2 +1,14 @@
 # cnbest-worldcup-hub
-HTML page archive and documentation
+
+静态文件发布目录
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 主要文件
+
+- `.html`：页面文件
+- `README.md`：仓库说明文件
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
